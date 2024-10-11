@@ -1,0 +1,20 @@
+//
+//  QuestionOneYY.swift
+//  TheEclipseProtocol
+//
+//  Created by Karson Mellott on 10/11/24.
+//
+
+import Foundation
+
+func QuestionOneYY() {
+    print("Weer Screech Boop (y/n)")
+    let answer = readLine()
+    if let answer = answer {
+        if (answer.contains("y")) {
+            print("YOU DIED")
+        }else {
+            QuestionOneYYN()
+        }
+    }
+}

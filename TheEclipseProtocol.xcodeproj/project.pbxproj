@@ -8,6 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		745F07D62CB97B38002D5319 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07D52CB97B38002D5319 /* main.swift */; };
+		745F07DD2CB97D82002D5319 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07DC2CB97D82002D5319 /* Utility.swift */; };
+		745F07DF2CB981B8002D5319 /* Restore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07DE2CB981B8002D5319 /* Restore.swift */; };
+		745F07E32CB98352002D5319 /* Manually.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07E22CB98352002D5319 /* Manually.swift */; };
+		745F07E52CB98477002D5319 /* MoonWalk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07E42CB98477002D5319 /* MoonWalk.swift */; };
+		745F07E72CB9856D002D5319 /* Earth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07E62CB9856D002D5319 /* Earth.swift */; };
+		745F07E92CB98629002D5319 /* nations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07E82CB98629002D5319 /* nations.swift */; };
+		745F07ED2CB98859002D5319 /* ShipAI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07EC2CB98859002D5319 /* ShipAI.swift */; };
+		745F07F12CB989B2002D5319 /* QuestionOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07F02CB989B2002D5319 /* QuestionOne.swift */; };
+		745F07F52CB98A65002D5319 /* QuestionOneY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07F42CB98A65002D5319 /* QuestionOneY.swift */; };
+		745F07F92CB98BA7002D5319 /* QuestionOneYYN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07F82CB98BA7002D5319 /* QuestionOneYYN.swift */; };
+		745F07FB2CB98BD0002D5319 /* QuestionOneYY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07FA2CB98BD0002D5319 /* QuestionOneYY.swift */; };
+		745F07FE2CB98CA1002D5319 /* shrimpBarbie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07FD2CB98CA1002D5319 /* shrimpBarbie.swift */; };
+		745F08002CB98D94002D5319 /* cookIt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F07FF2CB98D94002D5319 /* cookIt.swift */; };
+		745F08022CB98E69002D5319 /* eatIt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08012CB98E69002D5319 /* eatIt.swift */; };
+		745F08042CB98F2A002D5319 /* AngryOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08032CB98F2A002D5319 /* AngryOne.swift */; };
+		745F08062CB98FE7002D5319 /* AngryTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08052CB98FE7002D5319 /* AngryTwo.swift */; };
+		745F08082CB9905A002D5319 /* AngryThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08072CB9905A002D5319 /* AngryThree.swift */; };
+		745F080B2CB990F5002D5319 /* Armory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F080A2CB990F5002D5319 /* Armory.swift */; };
+		745F080D2CB991CD002D5319 /* Guns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F080C2CB991CD002D5319 /* Guns.swift */; };
+		745F080F2CB99234002D5319 /* shootPistol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F080E2CB99234002D5319 /* shootPistol.swift */; };
+		745F08112CB9930A002D5319 /* shootShotgun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08102CB9930A002D5319 /* shootShotgun.swift */; };
+		745F08132CB99381002D5319 /* burgers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08122CB99381002D5319 /* burgers.swift */; };
+		745F08152CB99448002D5319 /* freezer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08142CB99448002D5319 /* freezer.swift */; };
+		745F08172CB994D4002D5319 /* lockFreezer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F08162CB994D4002D5319 /* lockFreezer.swift */; };
+		745F081D2CB9966C002D5319 /* lockFreezerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745F081C2CB9966C002D5319 /* lockFreezerTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +50,31 @@
 /* Begin PBXFileReference section */
 		745F07D22CB97B38002D5319 /* TheEclipseProtocol */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TheEclipseProtocol; sourceTree = BUILT_PRODUCTS_DIR; };
 		745F07D52CB97B38002D5319 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		745F07DC2CB97D82002D5319 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		745F07DE2CB981B8002D5319 /* Restore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restore.swift; sourceTree = "<group>"; };
+		745F07E22CB98352002D5319 /* Manually.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Manually.swift; sourceTree = "<group>"; };
+		745F07E42CB98477002D5319 /* MoonWalk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonWalk.swift; sourceTree = "<group>"; };
+		745F07E62CB9856D002D5319 /* Earth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Earth.swift; sourceTree = "<group>"; };
+		745F07E82CB98629002D5319 /* nations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nations.swift; sourceTree = "<group>"; };
+		745F07EC2CB98859002D5319 /* ShipAI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShipAI.swift; sourceTree = "<group>"; };
+		745F07F02CB989B2002D5319 /* QuestionOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionOne.swift; sourceTree = "<group>"; };
+		745F07F42CB98A65002D5319 /* QuestionOneY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionOneY.swift; sourceTree = "<group>"; };
+		745F07F82CB98BA7002D5319 /* QuestionOneYYN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionOneYYN.swift; sourceTree = "<group>"; };
+		745F07FA2CB98BD0002D5319 /* QuestionOneYY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionOneYY.swift; sourceTree = "<group>"; };
+		745F07FD2CB98CA1002D5319 /* shrimpBarbie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shrimpBarbie.swift; sourceTree = "<group>"; };
+		745F07FF2CB98D94002D5319 /* cookIt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cookIt.swift; sourceTree = "<group>"; };
+		745F08012CB98E69002D5319 /* eatIt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eatIt.swift; sourceTree = "<group>"; };
+		745F08032CB98F2A002D5319 /* AngryOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngryOne.swift; sourceTree = "<group>"; };
+		745F08052CB98FE7002D5319 /* AngryTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngryTwo.swift; sourceTree = "<group>"; };
+		745F08072CB9905A002D5319 /* AngryThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngryThree.swift; sourceTree = "<group>"; };
+		745F080A2CB990F5002D5319 /* Armory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Armory.swift; sourceTree = "<group>"; };
+		745F080C2CB991CD002D5319 /* Guns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guns.swift; sourceTree = "<group>"; };
+		745F080E2CB99234002D5319 /* shootPistol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shootPistol.swift; sourceTree = "<group>"; };
+		745F08102CB9930A002D5319 /* shootShotgun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shootShotgun.swift; sourceTree = "<group>"; };
+		745F08122CB99381002D5319 /* burgers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = burgers.swift; sourceTree = "<group>"; };
+		745F08142CB99448002D5319 /* freezer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = freezer.swift; sourceTree = "<group>"; };
+		745F08162CB994D4002D5319 /* lockFreezer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lockFreezer.swift; sourceTree = "<group>"; };
+		745F081C2CB9966C002D5319 /* lockFreezerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lockFreezerTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +108,81 @@
 			isa = PBXGroup;
 			children = (
 				745F07D52CB97B38002D5319 /* main.swift */,
+				745F07DC2CB97D82002D5319 /* Utility.swift */,
+				745F07E02CB981DB002D5319 /* Options */,
 			);
 			path = TheEclipseProtocol;
+			sourceTree = "<group>";
+		};
+		745F07E02CB981DB002D5319 /* Options */ = {
+			isa = PBXGroup;
+			children = (
+				745F07DE2CB981B8002D5319 /* Restore.swift */,
+				745F07EB2CB9883E002D5319 /* Power */,
+				745F07E12CB9833E002D5319 /* Engines */,
+			);
+			path = Options;
+			sourceTree = "<group>";
+		};
+		745F07E12CB9833E002D5319 /* Engines */ = {
+			isa = PBXGroup;
+			children = (
+				745F07E22CB98352002D5319 /* Manually.swift */,
+				745F07E42CB98477002D5319 /* MoonWalk.swift */,
+				745F07E62CB9856D002D5319 /* Earth.swift */,
+				745F07E82CB98629002D5319 /* nations.swift */,
+			);
+			path = Engines;
+			sourceTree = "<group>";
+		};
+		745F07EB2CB9883E002D5319 /* Power */ = {
+			isa = PBXGroup;
+			children = (
+				745F07EC2CB98859002D5319 /* ShipAI.swift */,
+				745F07FC2CB98C6A002D5319 /* BritishGuy */,
+				745F08092CB990CB002D5319 /* AmericanGuy */,
+				745F07EF2CB98990002D5319 /* GenericRobot */,
+			);
+			path = Power;
+			sourceTree = "<group>";
+		};
+		745F07EF2CB98990002D5319 /* GenericRobot */ = {
+			isa = PBXGroup;
+			children = (
+				745F07F02CB989B2002D5319 /* QuestionOne.swift */,
+				745F07F42CB98A65002D5319 /* QuestionOneY.swift */,
+				745F07FA2CB98BD0002D5319 /* QuestionOneYY.swift */,
+				745F07F82CB98BA7002D5319 /* QuestionOneYYN.swift */,
+			);
+			path = GenericRobot;
+			sourceTree = "<group>";
+		};
+		745F07FC2CB98C6A002D5319 /* BritishGuy */ = {
+			isa = PBXGroup;
+			children = (
+				745F07FD2CB98CA1002D5319 /* shrimpBarbie.swift */,
+				745F07FF2CB98D94002D5319 /* cookIt.swift */,
+				745F08012CB98E69002D5319 /* eatIt.swift */,
+				745F08032CB98F2A002D5319 /* AngryOne.swift */,
+				745F08052CB98FE7002D5319 /* AngryTwo.swift */,
+				745F08072CB9905A002D5319 /* AngryThree.swift */,
+			);
+			path = BritishGuy;
+			sourceTree = "<group>";
+		};
+		745F08092CB990CB002D5319 /* AmericanGuy */ = {
+			isa = PBXGroup;
+			children = (
+				745F080A2CB990F5002D5319 /* Armory.swift */,
+				745F080C2CB991CD002D5319 /* Guns.swift */,
+				745F080E2CB99234002D5319 /* shootPistol.swift */,
+				745F08102CB9930A002D5319 /* shootShotgun.swift */,
+				745F08122CB99381002D5319 /* burgers.swift */,
+				745F08142CB99448002D5319 /* freezer.swift */,
+				745F08162CB994D4002D5319 /* lockFreezer.swift */,
+				745F081C2CB9966C002D5319 /* lockFreezerTwo.swift */,
+			);
+			path = AmericanGuy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,6 +243,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				745F07E32CB98352002D5319 /* Manually.swift in Sources */,
+				745F07F12CB989B2002D5319 /* QuestionOne.swift in Sources */,
+				745F08112CB9930A002D5319 /* shootShotgun.swift in Sources */,
+				745F07F52CB98A65002D5319 /* QuestionOneY.swift in Sources */,
+				745F07E52CB98477002D5319 /* MoonWalk.swift in Sources */,
+				745F08002CB98D94002D5319 /* cookIt.swift in Sources */,
+				745F080F2CB99234002D5319 /* shootPistol.swift in Sources */,
+				745F07E72CB9856D002D5319 /* Earth.swift in Sources */,
+				745F08062CB98FE7002D5319 /* AngryTwo.swift in Sources */,
+				745F081D2CB9966C002D5319 /* lockFreezerTwo.swift in Sources */,
+				745F07DF2CB981B8002D5319 /* Restore.swift in Sources */,
+				745F07E92CB98629002D5319 /* nations.swift in Sources */,
+				745F08172CB994D4002D5319 /* lockFreezer.swift in Sources */,
+				745F08022CB98E69002D5319 /* eatIt.swift in Sources */,
+				745F08132CB99381002D5319 /* burgers.swift in Sources */,
+				745F07FE2CB98CA1002D5319 /* shrimpBarbie.swift in Sources */,
+				745F07ED2CB98859002D5319 /* ShipAI.swift in Sources */,
+				745F07F92CB98BA7002D5319 /* QuestionOneYYN.swift in Sources */,
+				745F08042CB98F2A002D5319 /* AngryOne.swift in Sources */,
+				745F080D2CB991CD002D5319 /* Guns.swift in Sources */,
+				745F080B2CB990F5002D5319 /* Armory.swift in Sources */,
+				745F08152CB99448002D5319 /* freezer.swift in Sources */,
+				745F08082CB9905A002D5319 /* AngryThree.swift in Sources */,
+				745F07DD2CB97D82002D5319 /* Utility.swift in Sources */,
+				745F07FB2CB98BD0002D5319 /* QuestionOneYY.swift in Sources */,
 				745F07D62CB97B38002D5319 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
