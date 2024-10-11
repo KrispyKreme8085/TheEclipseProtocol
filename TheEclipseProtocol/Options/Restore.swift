@@ -17,6 +17,7 @@ func restoreEnginesPower() {
     if let answer = answer {
         if (answer.contains("1")) {
             print("You have restored ship power")
+            shipAI()
         }else {
             print("You have restore engine power")
             flyManually()
